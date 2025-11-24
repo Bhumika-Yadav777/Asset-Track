@@ -43,4 +43,3 @@ Test Validation (NFR 1 - Negative Test):
 Attempt to assign an asset to a non-existent employee ID (e.g., EMP-999). The system should report an error and not crash.
 Attempt to use the Delete function (Admin-only access).
 
-7. Screenshots (Optional but Recommended)
